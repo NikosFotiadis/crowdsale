@@ -1,0 +1,26 @@
+{
+  "name": "ethereum-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikosFotiadis/ETHEREUM-challenge.git"
+  },
+  "author": "Nikos Fotiadis",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.3",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
+  },
+  "bugs": {
+    "url": "https://github.com/NikosFotiadis/ETHEREUM-challenge/issues"
+  },
+  "homepage": "https://github.com/NikosFotiadis/ETHEREUM-challenge#readme"
+}
